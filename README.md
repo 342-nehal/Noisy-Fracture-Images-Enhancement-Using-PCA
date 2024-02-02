@@ -18,3 +18,8 @@ Binary classifiers used:
 3.	Logistic Regression
 4.	Decision Tree classifier
 5.	Random Forest Classifier
+
+CHANGES TO BE MADE TO THE CODE TO RUN IN LOCAL:
+1. Make 2 folders, in one store fractured images and in another store not fractured images.
+2. Correct the paths to these folders in jupyter notebook.
+Hurrah! Now your code is ready to be run. Hope it works fine. 
